@@ -1,0 +1,5 @@
+cd ~/Desktop/Coded\ Slotted\ Aloha/Final\ Code/Simulation
+make csa
+./csa 	
+	
+	

@@ -6,7 +6,7 @@ Movie recommendation application
 
 
 ## Requirements
-The main code file changing_k_movie_recom.m can be run in matlab.
+The main code file changing_k_movie_recom.m can run in matlab.
 the data Summarydata.mat, and functions f_a_T_ind.m , f_total_ind.m, lazygreedy_ind.m needed for running code.
 
 
